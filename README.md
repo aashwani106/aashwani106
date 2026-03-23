@@ -1,45 +1,43 @@
- 
-<!--
-**aashwani106/aashwani106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 📊 GitHub Stats
+<h1 align="center">Ashwani Mishra</h1>
+<p align="center">
+  Software Engineer
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashwani106&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak" />
-  <br /> 
-
-<!--
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashwani106&label=Profile%20views&color=0e75b6&style=flat" alt="aashwani106"/>
+  <a href="https://ashwani-portfolio-taupe.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ashwani-mishra1310/">LinkedIn</a> •
+  <a href="https://x.com/aashwani_91612">X</a>
 </p>
--->
 
- <img src="https://badgen.net/badge/Connect/with%20me/blue" alt="Connect"/>
+---
+
+## About
+
+Software Engineer with 2+ years of experience building scalable web applications and backend systems.
+
+Focused on writing clean, maintainable code and building reliable products.
+
+---
+
+## Tech Stack
+
+JavaScript • TypeScript • Next   • React • Angular   • Node.js • Express  
+MongoDB • PostgreSQL • TailwindCSS • Docker • Git  
+
+---
+
+## GitHub
 
 <p align="center">
-  <a href="https://ashwani-portfolio-taupe.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ashwani-mishra1310/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/aashwani_91612">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
-  </a>
-  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=aashwani106&show_icons=true&hide_border=true" />
 </p>
- 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashwani106&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+Open to opportunities and collaborations.
