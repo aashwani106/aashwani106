@@ -41,7 +41,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
   &nbsp;
- 
 </p>
-[1]: https://github.com/aashwani106/csradrx
-[2]: https://github.com/aashwani106/pcm
+ 
