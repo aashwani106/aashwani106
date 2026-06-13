@@ -16,6 +16,9 @@ Focused on writing clean, maintainable code and building reliable products.
 - [CSRadrX](https://github.com/aashwani106/csradrx) - AI-powered intelligence platform that tracks and analyzes updates from leading AI labs, engineering blogs, and social channels.
 - [Sirtifai](https://www.sirtifai.com/) - Digital certificate issuance and verification platform.
 - [PCM App](https://github.com/aashwani106/pcm) - Educational platform for Physics, Chemistry, and Mathematics students.
+- [YoMate](private repo)- Educational platform for Physics, Chemistry, and Mathematics students.
+- [Iravath](https://iravath.com/) - Airline launchpad platform featuring analytics and operational monitoring dashboards, real-time capabilities, and responsive user experiences.
+- [Gigleaz](https://gigleaz.us/) - Micro-service platform connecting service providers with clients, featuring a high-performance UI built with React.js, Tailwind CSS, and Framer Motion.
   
 **Web3**
 - [Guestbook](https://github.com/aashwani106/guestbook-frontend) - Open-source Solana guestbook application where visitors can leave on-chain messages.
