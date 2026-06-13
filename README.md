@@ -22,8 +22,9 @@ Focused on writing clean, maintainable code and building reliable products.
 - [Gigleaz](https://gigleaz.us/) - Micro-service platform connecting service providers with clients, featuring a high-performance UI built with React.js, Tailwind CSS, and Framer Motion.
   
 **Web3**
-- [Guestbook](https://github.com/aashwani106/guestbook-frontend) - Open-source Solana guestbook application where visitors can leave on-chain messages.
+
 - [Autopsy Labs](https://github.com/autopsy-labs)-   Solana transaction forensics platform that helps developers and investigators understand exactly what happened inside a transaction. Provides execution-path tracing, compute unit profiling, risk analysis, and plain-English explanations of transaction behavior.
+- [Guestbook](https://github.com/aashwani106/guestbook-frontend) - Open-source Solana guestbook application where visitors can leave on-chain messages.
 
  
 ---
