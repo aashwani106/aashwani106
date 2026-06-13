@@ -2,28 +2,26 @@
 <p align="center">
   Software Engineer
 </p>
-
-<p align="center">
-  <a href="https://ashwani-portfolio-taupe.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ashwani-mishra1310/">LinkedIn</a> •
-  <a href="https://x.com/aashwani_91612">X</a>
-</p>
-
+ 
 ---
 
 ## About
 
-Software Engineer with 2+ years of experience building scalable web applications and backend systems.
+Software Engineer with 3+ years of experience building scalable web applications and backend systems.
 
 Focused on writing clean, maintainable code and building reliable products.
 
 ---
+**Projects**
+- [CSRadrX](https://github.com/aashwani106/csradrx) - AI-powered intelligence platform that tracks and analyzes updates from leading AI labs, engineering blogs, and social channels.
+- [Sirtifai](https://www.sirtifai.com/) - Digital certificate issuance and verification platform.
+- [PCM App](https://github.com/aashwani106/pcm) - Educational platform for Physics, Chemistry, and Mathematics students.
+**Web3**
+- [Guestbook](https://github.com/aashwani106/guestbook-frontend) - Open-source Solana guestbook application where visitors can leave on-chain messages.
 
-## Tech Stack
+---
 
-JavaScript • TypeScript • Next   • React • Angular   • Node.js • Express  
-MongoDB • PostgreSQL • TailwindCSS • Docker • Git  
-
+ 
 ---
 
 ## GitHub
