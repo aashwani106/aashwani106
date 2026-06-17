@@ -6,13 +6,11 @@
 ---
 
 ## About
-
-Software Engineer with 3+ years of experience building scalable web applications and backend systems.
-
-Currently Exploring and building things in web3
+ 
+Software Engineer with 3+ years of experience building scalable web applications and backend systems. Passionate about designing reliable, high-performance software and currently exploring and building in the Web3 ecosystem.
 
 ---
-****Projects - Web3**
+**Projects - Web3**
 
 - [Autopsy Labs](https://github.com/autopsy-labs)-   Solana transaction forensics platform that helps developers and investigators understand exactly what happened inside a transaction. Provides execution-path tracing, compute unit profiling, risk analysis, and plain-English explanations of transaction behavior [Live](https://www.autopsylabs.xyz/).
  
