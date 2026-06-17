@@ -5,7 +5,7 @@
  
 ---
 
-## About
+**ABOUT**
  
 Software Engineer with 3+ years of experience building scalable web applications and backend systems. Passionate about designing reliable, high-performance software and currently exploring and building in the Web3 ecosystem.
 
@@ -14,8 +14,7 @@ Software Engineer with 3+ years of experience building scalable web applications
 
 - [Autopsy Labs](https://github.com/autopsy-labs)-   Solana transaction forensics platform that helps developers and investigators understand exactly what happened inside a transaction. Provides execution-path tracing, compute unit profiling, risk analysis, and plain-English explanations of transaction behavior [Live](https://www.autopsylabs.xyz/).
  
-
-- 
+ 
 **Projects- Web2**
 
 - [CSRadrX](https://github.com/aashwani106/csradrx) - AI-powered intelligence platform that tracks and analyzes updates from leading AI labs, engineering blogs, and social channels [live](https://csradrx.live/).
@@ -31,7 +30,7 @@ Software Engineer with 3+ years of experience building scalable web applications
  
 ---
 
-## GitHub
+**GITHUB**
 
  
 <p align="center">
