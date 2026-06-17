@@ -9,11 +9,18 @@
 
 Software Engineer with 3+ years of experience building scalable web applications and backend systems.
 
-Focused on writing clean, maintainable code and building reliable products.
+Currently Exploring and building things in web3
 
 ---
-**Projects**
-- [CSRadrX](https://github.com/aashwani106/csradrx) - AI-powered intelligence platform that tracks and analyzes updates from leading AI labs, engineering blogs, and social channels.
+****Projects - Web3**
+
+- [Autopsy Labs](https://github.com/autopsy-labs)-   Solana transaction forensics platform that helps developers and investigators understand exactly what happened inside a transaction. Provides execution-path tracing, compute unit profiling, risk analysis, and plain-English explanations of transaction behavior [Live](https://www.autopsylabs.xyz/).
+ 
+
+- 
+**Projects- Web2**
+
+- [CSRadrX](https://github.com/aashwani106/csradrx) - AI-powered intelligence platform that tracks and analyzes updates from leading AI labs, engineering blogs, and social channels [live](https://csradrx.live/).
 - [Sirtifai](https://www.sirtifai.com/) - Digital certificate issuance and verification platform.
 - [PCM App](https://github.com/aashwani106/pcm) - Educational platform for Physics, Chemistry, and Mathematics students.
 - YoMate(private repo)- AI-powered Slack assistant for HR teams, enabling secure document uploads, AES-256 encryption, Google Drive storage, Pinecone-powered semantic search, and intelligent Slack-based knowledge retrieval.
@@ -21,10 +28,7 @@ Focused on writing clean, maintainable code and building reliable products.
 - [Iravath](https://iravath.com/) - Airline launchpad platform featuring analytics and operational monitoring dashboards, real-time capabilities, and responsive user experiences.
 - [Gigleaz](https://gigleaz.us/) - Micro-service platform connecting service providers with clients, featuring a high-performance UI built with React.js, Tailwind CSS, and Framer Motion.
   
-**Web3**
 
-- [Autopsy Labs](https://github.com/autopsy-labs)-   Solana transaction forensics platform that helps developers and investigators understand exactly what happened inside a transaction. Provides execution-path tracing, compute unit profiling, risk analysis, and plain-English explanations of transaction behavior.
-- [Guestbook](https://github.com/aashwani106/guestbook-frontend) - Open-source Solana guestbook application where visitors can leave on-chain messages.
 
  
 ---
