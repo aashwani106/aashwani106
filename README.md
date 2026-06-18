@@ -3,7 +3,7 @@
   Software Engineer
 </p> -->
  <p align="center">
-  <img src="./image.png" alt="Banner" />
+  <img src="./image (1).png" alt="Banner" />
 </p>
 
 <h1 align="center">Ashwani Mishra</h1>
