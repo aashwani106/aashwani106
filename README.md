@@ -1,8 +1,13 @@
-<h1 align="center">Ashwani Mishra</h1>
+<!-- <h1 align="center">Ashwani Mishra</h1>
 <p align="center">
   Software Engineer
+</p> -->
+ <p align="center">
+  <img src="./image.png" alt="Banner" />
 </p>
- 
+
+<h1 align="center">Ashwani Mishra</h1>
+<p align="center">Software Engineer</p>
 ---
 
 **ABOUT**
