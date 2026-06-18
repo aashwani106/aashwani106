@@ -32,9 +32,6 @@ Software Engineer with 3+ years of experience building scalable web applications
   
 
 
- 
----
-
 **GITHUB**
 
  
@@ -45,8 +42,12 @@ Software Engineer with 3+ years of experience building scalable web applications
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aashwani106&label=Profile%20views&color=0e75b6&style=flat" alt="aashwani106"/>
 </p>
----
 
-## Contact
+ <p align="center">
+  <i>"Being born really isn't that uncommon... Almost everything in this world is meant to die. In this world, a life born is nothing more than an insignificant speck, and shouldn't even be counted as an existence. Death is natural."</i>
+</p>
 
-Open to opportunities and collaborations.
+<!-- ## Contact 
+
+Open to opportunities and collaborations. -->
+
