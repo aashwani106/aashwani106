@@ -31,7 +31,7 @@ Software Engineer with 3+ years of experience building scalable web applications
 - [Gigleaz](https://gigleaz.us/) - Micro-service platform connecting service providers with clients, featuring a high-performance UI built with React.js, Tailwind CSS, and Framer Motion.
   
 
-
+<!-- 
 **GITHUB**
 
  
@@ -46,7 +46,7 @@ Software Engineer with 3+ years of experience building scalable web applications
  <p align="center">
   <i>"Being born really isn't that uncommon... Almost everything in this world is meant to die. In this world, a life born is nothing more than an insignificant speck, and shouldn't even be counted as an existence. Death is natural."</i>
 </p>
-
+-->
 <!-- ## Contact 
 
 Open to opportunities and collaborations. -->
